@@ -1,0 +1,14 @@
+: 1
+name: bootstrap
+version: 0.1.0-a.0.z
+language: c++
+project: wine-bootstrap
+summary: bootstrap C++ executable
+license: GPL-3.0-or-later ; GNU General Public License v3.0 or later.
+description-file: README.md
+url: https://github.com/wroyca/wine-bootstrap
+email: wroy@proton.me
+#build-error-email: wroy@proton.me
+depends: * build2 >= 0.17.0
+depends: * bpkg >= 0.17.0
+#depends: libhello ^1.0.0

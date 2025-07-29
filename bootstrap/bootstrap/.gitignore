@@ -1,0 +1,5 @@
+bootstrap
+
+# Testscript output directory (can be symlink).
+#
+test-bootstrap
